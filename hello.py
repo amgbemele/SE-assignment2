@@ -1,2 +1,2 @@
-print("Hello, World!")
-print("Hi Amarachi, this is from feature-1 branch!")
+print("Hello from MAIN!")
+print("Hi Amarachi, this is from main branch")
